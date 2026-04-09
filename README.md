@@ -1,10 +1,11 @@
 # 📈 MarketMind: Agentic Multi-Agent Stock Intelligence System
 
-An **agentic AI system** that autonomously discovers trending companies, conducts real-time financial research, and selects the best investment opportunity using a coordinated multi-agent workflow.
+🚀 **Live Demo**
+👉 https://huggingface.co/spaces/deejay14/MarketMind-Stock_Intelligence_System
 
 ---
 
-## 👉🏾 LIVE DEMO  :  https://huggingface.co/spaces/deejay14/MarketMind-Stock_Intelligence_System
+An **agentic AI system** that autonomously discovers trending companies, conducts real-time financial research, and selects the best investment opportunity using a coordinated multi-agent workflow.
 
 ---
 
@@ -16,15 +17,6 @@ An **agentic AI system** that autonomously discovers trending companies, conduct
 * 🧩 **YAML-Driven Architecture** — modular, configurable agent and task design
 * 🧠 **Memory Systems** — long-term, short-term, and entity memory for contextual reasoning
 * 🔔 **Actionable Output** — sends investment decision via notification + detailed report
-
----
-
-## 🧠 Key Learnings
-
-* Designing agent workflows using **CrewAI hierarchical processes**
-* Forcing **tool-based reasoning for real-time intelligence**
-* Managing **memory in agent systems (LTM, STM, Entity Memory)**
-* Structuring AI systems using **YAML-driven configurations**
 
 ---
 
@@ -43,8 +35,6 @@ Stock Picker             →  (Final decision + notification)
         ↓
 Structured Output (Markdown Report)
 ```
-
----
 
 ## ⚙️ Tech Stack
 
@@ -73,10 +63,19 @@ Deployed on **Hugging Face Spaces** using a Gradio interface.
 
 ---
 
-## 📌 Why I chose to do this Project
+## 📌 Why I chose this project
 
-* Demonstrates **true agentic system design** 
+* Demonstrates **true agentic system design** (beyond simple chatbots)
 * Implements **multi-agent collaboration with delegation**
 * Uses **real-time data grounding via search tools**
 * Integrates **memory for context-aware reasoning**
 * Built with **modularity and scalability in mind**
+
+---
+
+## 🧠 Key Learnings
+
+* Designing agent workflows using **CrewAI hierarchical processes**
+* Forcing **tool-based reasoning for real-time intelligence**
+* Managing **memory in agent systems (LTM, STM, Entity Memory)**
+* Structuring AI systems using **YAML-driven configurations**
