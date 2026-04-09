@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.gradio/    
+memory/*.db
+memory/*.sqlite3
+uv.lock
